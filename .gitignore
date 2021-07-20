@@ -1,3 +1,5 @@
 .idea
-.pytest_cashe
-__pycashe__/
+.pytest_cache
+__pytest_cash__/
+
+test_results
